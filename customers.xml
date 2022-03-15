@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<customers>
+	<customer>
+		<company>Luctus Aliquet Odio LLC</company>
+		<contact>Shoshana Conway</contact>
+		<phone>+93-258-992-0299</phone>
+		<country>Dominica</country>
+		<account_balance>€170,812</account_balance>
+		<average_annual_sales_eur>51867</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Pede Sagittis Augue Associates</company>
+		<contact>Raphael Washington</contact>
+		<phone>+16-444-244-0465</phone>
+		<country>Niue</country>
+		<account_balance>€193,314</account_balance>
+		<average_annual_sales_eur>62570</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Diam Lorem Inc.</company>
+		<contact>Ronan Dixon</contact>
+		<phone>+23-734-464-0382</phone>
+		<country>Hong Kong</country>
+		<account_balance>€136,449</account_balance>
+		<average_annual_sales_eur>48412</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Non Magna Nam Inc.</company>
+		<contact>Hadley Valdez</contact>
+		<phone>+41-362-947-3422</phone>
+		<country>Sao Tome and Principe</country>
+		<account_balance>€120,617</account_balance>
+		<average_annual_sales_eur>63451</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Vitae LLP</company>
+		<contact>Gisela Guerrero</contact>
+		<phone>+54-671-615-7562</phone>
+		<country>Zambia</country>
+		<account_balance>€129,733</account_balance>
+		<average_annual_sales_eur>47278</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Feugiat LLC</company>
+		<contact>Sheila Baird</contact>
+		<phone>+23-732-269-2939</phone>
+		<country>Fiji</country>
+		<account_balance>€131,152</account_balance>
+		<average_annual_sales_eur>49373</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Ipsum Primis LLC</company>
+		<contact>Sophia Armstrong</contact>
+		<phone>+39-913-971-0937</phone>
+		<country>Montserrat</country>
+		<account_balance>€125,771</account_balance>
+		<average_annual_sales_eur>59948</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Duis Mi Enim Consulting</company>
+		<contact>Juliet Gay</contact>
+		<phone>+31-412-522-6403</phone>
+		<country>Guatemala</country>
+		<account_balance>€119,055</account_balance>
+		<average_annual_sales_eur>47421</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Duis Dignissim LLC</company>
+		<contact>Warren Stokes</contact>
+		<phone>+62-206-634-3085</phone>
+		<country>Libya</country>
+		<account_balance>€116,195</account_balance>
+		<average_annual_sales_eur>46563</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Sed Congue Elit Limited</company>
+		<contact>Fuller Lynn</contact>
+		<phone>+20-919-922-2845</phone>
+		<country>Tajikistan</country>
+		<account_balance>€142,761</account_balance>
+		<average_annual_sales_eur>59150</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Enim Incorporated</company>
+		<contact>Tanner Vinson</contact>
+		<phone>+42-413-635-2047</phone>
+		<country>Mali</country>
+		<account_balance>€119,853</account_balance>
+		<average_annual_sales_eur>35681</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Mauris Erat Corporation</company>
+		<contact>Merritt Craig</contact>
+		<phone>+68-779-209-5214</phone>
+		<country>Virgin Islands, United States</country>
+		<account_balance>€100,756</account_balance>
+		<average_annual_sales_eur>53161</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Pretium PC</company>
+		<contact>Hanna Hunt</contact>
+		<phone>+57-335-631-1143</phone>
+		<country>United Kingdom (Great Britain)</country>
+		<account_balance>€176,103</account_balance>
+		<average_annual_sales_eur>60969</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Et Ltd</company>
+		<contact>Tallulah Castro</contact>
+		<phone>+47-568-842-4631</phone>
+		<country>Gibraltar</country>
+		<account_balance>€121,053</account_balance>
+		<average_annual_sales_eur>69484</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Nisi Dictum Consulting</company>
+		<contact>Thor Chan</contact>
+		<phone>+12-305-539-3769</phone>
+		<country>Angola</country>
+		<account_balance>€162,474</account_balance>
+		<average_annual_sales_eur>54886</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Enim Consequat Purus Ltd</company>
+		<contact>Destiny Savage</contact>
+		<phone>+86-307-165-1985</phone>
+		<country>Bangladesh</country>
+		<account_balance>€164,881</account_balance>
+		<average_annual_sales_eur>47123</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Ut Dolor Dapibus Company</company>
+		<contact>Portia Ryan</contact>
+		<phone>+87-807-187-8351</phone>
+		<country>Jordan</country>
+		<account_balance>€186,169</account_balance>
+		<average_annual_sales_eur>50089</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Tincidunt Orci Inc.</company>
+		<contact>Louis Hoffman</contact>
+		<phone>+63-843-667-0477</phone>
+		<country>Dominican Republic</country>
+		<account_balance>€199,055</account_balance>
+		<average_annual_sales_eur>58531</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Congue LLP</company>
+		<contact>Jin Heath</contact>
+		<phone>+38-836-212-8469</phone>
+		<country>Benin</country>
+		<account_balance>€131,379</account_balance>
+		<average_annual_sales_eur>53663</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Nibh Lacinia Orci Ltd</company>
+		<contact>Sara Peterson</contact>
+		<phone>+97-263-361-4929</phone>
+		<country>Uzbekistan</country>
+		<account_balance>€169,639</account_balance>
+		<average_annual_sales_eur>51773</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Congue Institute</company>
+		<contact>Genevieve Mcfadden</contact>
+		<phone>+31-426-333-2194</phone>
+		<country>Montserrat</country>
+		<account_balance>€137,576</account_balance>
+		<average_annual_sales_eur>34930</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Tempor LLC</company>
+		<contact>Grace Rowland</contact>
+		<phone>+43-715-711-3874</phone>
+		<country>Croatia</country>
+		<account_balance>€185,387</account_balance>
+		<average_annual_sales_eur>31659</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Eu Dolor Egestas LLP</company>
+		<contact>Wilma Bishop</contact>
+		<phone>+11-512-939-0635</phone>
+		<country>Holy See (Vatican City State)</country>
+		<account_balance>€164,760</account_balance>
+		<average_annual_sales_eur>47437</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Dapibus Quam Consulting</company>
+		<contact>Alea Cortez</contact>
+		<phone>+04-950-502-3613</phone>
+		<country>Lesotho</country>
+		<account_balance>€142,246</account_balance>
+		<average_annual_sales_eur>51262</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Sagittis Nullam Vitae Limited</company>
+		<contact>Laura Kinney</contact>
+		<phone>+69-950-120-0717</phone>
+		<country>Guam</country>
+		<account_balance>€132,799</account_balance>
+		<average_annual_sales_eur>49703</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Ultrices Vivamus Rhoncus Consulting</company>
+		<contact>Kermit Dickerson</contact>
+		<phone>+35-774-691-4607</phone>
+		<country>Norfolk Island</country>
+		<account_balance>€150,730</account_balance>
+		<average_annual_sales_eur>42385</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Tortor Nibh Corporation</company>
+		<contact>Quamar Blake</contact>
+		<phone>+54-941-271-4719</phone>
+		<country>Saint Helena, Ascension and Tristan da Cunha</country>
+		<account_balance>€198,212</account_balance>
+		<average_annual_sales_eur>40239</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Ridiculus Foundation</company>
+		<contact>Tamekah Wiley</contact>
+		<phone>+74-716-494-5118</phone>
+		<country>Saint Helena, Ascension and Tristan da Cunha</country>
+		<account_balance>€140,282</account_balance>
+		<average_annual_sales_eur>62456</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Consequat Institute</company>
+		<contact>Daphne Sanchez</contact>
+		<phone>+85-969-443-6114</phone>
+		<country>Swaziland</country>
+		<account_balance>€112,848</account_balance>
+		<average_annual_sales_eur>46215</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Phasellus Corp.</company>
+		<contact>Keegan Campos</contact>
+		<phone>+70-613-250-5095</phone>
+		<country>Morocco</country>
+		<account_balance>€104,255</account_balance>
+		<average_annual_sales_eur>46992</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Curae; Corporation</company>
+		<contact>Lenore Woods</contact>
+		<phone>+98-296-403-6475</phone>
+		<country>Niue</country>
+		<account_balance>€135,984</account_balance>
+		<average_annual_sales_eur>51503</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Amet Institute</company>
+		<contact>Sarah Pittman</contact>
+		<phone>+37-647-651-8065</phone>
+		<country>Papua New Guinea</country>
+		<account_balance>€175,293</account_balance>
+		<average_annual_sales_eur>47316</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Suspendisse Dui Fusce Inc.</company>
+		<contact>Yoko Stout</contact>
+		<phone>+76-942-144-0303</phone>
+		<country>Pakistan</country>
+		<account_balance>€120,971</account_balance>
+		<average_annual_sales_eur>40508</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>In Consectetuer Ltd</company>
+		<contact>Aurelia Rice</contact>
+		<phone>+37-500-357-3889</phone>
+		<country>South Georgia and The South Sandwich Islands</country>
+		<account_balance>€194,636</account_balance>
+		<average_annual_sales_eur>55071</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Quam LLP</company>
+		<contact>Tamekah Mccray</contact>
+		<phone>+93-848-234-7777</phone>
+		<country>Suriname</country>
+		<account_balance>€132,771</account_balance>
+		<average_annual_sales_eur>49993</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Mi Duis Risus Corporation</company>
+		<contact>Abdul Robles</contact>
+		<phone>+82-756-587-8741</phone>
+		<country>Finland</country>
+		<account_balance>€135,177</account_balance>
+		<average_annual_sales_eur>54359</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>In Inc.</company>
+		<contact>Mallory Dickson</contact>
+		<phone>+68-224-551-1549</phone>
+		<country>Iraq</country>
+		<account_balance>€167,615</account_balance>
+		<average_annual_sales_eur>50454</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Ante Nunc Foundation</company>
+		<contact>Ria Byrd</contact>
+		<phone>+23-270-528-4378</phone>
+		<country>Virgin Islands, United States</country>
+		<account_balance>€154,982</account_balance>
+		<average_annual_sales_eur>50918</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Odio Ltd</company>
+		<contact>Brandon Good</contact>
+		<phone>+90-799-299-4816</phone>
+		<country>Gibraltar</country>
+		<account_balance>€130,848</account_balance>
+		<average_annual_sales_eur>50476</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Auctor Incorporated</company>
+		<contact>Mechelle Bowman</contact>
+		<phone>+47-741-447-6676</phone>
+		<country>Madagascar</country>
+		<account_balance>€158,523</account_balance>
+		<average_annual_sales_eur>52223</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Pede LLC</company>
+		<contact>Colton Lancaster</contact>
+		<phone>+48-769-618-2245</phone>
+		<country>Peru</country>
+		<account_balance>€132,664</account_balance>
+		<average_annual_sales_eur>55894</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Amet Faucibus Associates</company>
+		<contact>Tana Cooke</contact>
+		<phone>+91-286-701-7739</phone>
+		<country>Nigeria</country>
+		<account_balance>€162,912</account_balance>
+		<average_annual_sales_eur>50403</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Ac Mattis LLC</company>
+		<contact>Jolene Shaw</contact>
+		<phone>+49-112-428-5831</phone>
+		<country>Suriname</country>
+		<account_balance>€184,785</account_balance>
+		<average_annual_sales_eur>69159</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Mauris Erat Consulting</company>
+		<contact>Drew Henderson</contact>
+		<phone>+54-837-792-7355</phone>
+		<country>Nigeria</country>
+		<account_balance>€104,056</account_balance>
+		<average_annual_sales_eur>47488</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Elit Pellentesque A Company</company>
+		<contact>Dai Coleman</contact>
+		<phone>+05-768-158-6013</phone>
+		<country>Turks and Caicos Islands</country>
+		<account_balance>€121,858</account_balance>
+		<average_annual_sales_eur>47855</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Urna Nunc Quis Institute</company>
+		<contact>Carol Key</contact>
+		<phone>+15-746-140-6894</phone>
+		<country>Bulgaria</country>
+		<account_balance>€102,147</account_balance>
+		<average_annual_sales_eur>39876</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Amet Institute</company>
+		<contact>Charde Rutledge</contact>
+		<phone>+60-310-672-6465</phone>
+		<country>Mozambique</country>
+		<account_balance>€174,218</account_balance>
+		<average_annual_sales_eur>41970</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Vitae Aliquet Nec Industries</company>
+		<contact>Kalia Jacobs</contact>
+		<phone>+77-576-638-5185</phone>
+		<country>Philippines</country>
+		<account_balance>€123,501</account_balance>
+		<average_annual_sales_eur>50722</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Ut Eros Institute</company>
+		<contact>Liberty Gill</contact>
+		<phone>+05-458-880-4675</phone>
+		<country>Laos</country>
+		<account_balance>€189,488</account_balance>
+		<average_annual_sales_eur>47419</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Vivamus Euismod Industries</company>
+		<contact>Kirk Galloway</contact>
+		<phone>+21-438-517-1955</phone>
+		<country>Slovenia</country>
+		<account_balance>€196,114</account_balance>
+		<average_annual_sales_eur>57765</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Purus Ac Tellus Limited</company>
+		<contact>Wynter Mack</contact>
+		<phone>+24-636-136-9027</phone>
+		<country>Finland</country>
+		<account_balance>€167,811</account_balance>
+		<average_annual_sales_eur>38719</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Mauris Ut Mi Institute</company>
+		<contact>Hyatt Beasley</contact>
+		<phone>+56-157-950-7970</phone>
+		<country>Ghana</country>
+		<account_balance>€115,323</account_balance>
+		<average_annual_sales_eur>36555</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Ipsum PC</company>
+		<contact>Avye Walls</contact>
+		<phone>+58-396-664-1631</phone>
+		<country>Barbados</country>
+		<account_balance>€176,572</account_balance>
+		<average_annual_sales_eur>46076</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Tristique Industries</company>
+		<contact>Sawyer Calderon</contact>
+		<phone>+55-291-898-5616</phone>
+		<country>Oman</country>
+		<account_balance>€167,957</account_balance>
+		<average_annual_sales_eur>55554</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Ante Ipsum Associates</company>
+		<contact>Damon Phelps</contact>
+		<phone>+32-550-268-6349</phone>
+		<country>Moldova</country>
+		<account_balance>€180,196</account_balance>
+		<average_annual_sales_eur>41227</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Mattis Semper Dui Incorporated</company>
+		<contact>Kerry Reyes</contact>
+		<phone>+14-597-434-0818</phone>
+		<country>Macao</country>
+		<account_balance>€129,706</account_balance>
+		<average_annual_sales_eur>65130</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Facilisi Company</company>
+		<contact>Xena Bean</contact>
+		<phone>+13-237-388-8204</phone>
+		<country>Guam</country>
+		<account_balance>€180,677</account_balance>
+		<average_annual_sales_eur>52774</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Tellus Justo Sit Limited</company>
+		<contact>Isaiah Roach</contact>
+		<phone>+78-878-878-6295</phone>
+		<country>Taiwan</country>
+		<account_balance>€130,805</account_balance>
+		<average_annual_sales_eur>41194</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Quis Diam Consulting</company>
+		<contact>Emerson Hines</contact>
+		<phone>+83-755-584-5068</phone>
+		<country>United Kingdom (Great Britain)</country>
+		<account_balance>€155,587</account_balance>
+		<average_annual_sales_eur>42884</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Risus Quis Inc.</company>
+		<contact>Rebekah Key</contact>
+		<phone>+18-198-885-3801</phone>
+		<country>Andorra</country>
+		<account_balance>€136,475</account_balance>
+		<average_annual_sales_eur>38218</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Eu Tempor Erat Ltd</company>
+		<contact>Bianca Hess</contact>
+		<phone>+52-315-525-3986</phone>
+		<country>Holy See (Vatican City State)</country>
+		<account_balance>€109,182</account_balance>
+		<average_annual_sales_eur>44067</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Integer Eu Institute</company>
+		<contact>Kerry Peterson</contact>
+		<phone>+95-182-392-0592</phone>
+		<country>Guatemala</country>
+		<account_balance>€135,020</account_balance>
+		<average_annual_sales_eur>39658</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Dignissim PC</company>
+		<contact>Gabriel Salas</contact>
+		<phone>+71-217-496-5485</phone>
+		<country>Saint Pierre and Miquelon</country>
+		<account_balance>€145,379</account_balance>
+		<average_annual_sales_eur>50691</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Proin Nisl Sem Ltd</company>
+		<contact>Timothy Ross</contact>
+		<phone>+70-273-433-8569</phone>
+		<country>Cocos (Keeling) Islands</country>
+		<account_balance>€140,495</account_balance>
+		<average_annual_sales_eur>51942</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Donec Company</company>
+		<contact>Brendan Hood</contact>
+		<phone>+57-884-342-6594</phone>
+		<country>Tonga</country>
+		<account_balance>€196,732</account_balance>
+		<average_annual_sales_eur>63658</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Ut Pellentesque PC</company>
+		<contact>Samson Weber</contact>
+		<phone>+00-399-615-2670</phone>
+		<country>Pitcairn Islands</country>
+		<account_balance>€124,855</account_balance>
+		<average_annual_sales_eur>54028</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Donec At Arcu Corporation</company>
+		<contact>Alika Sexton</contact>
+		<phone>+73-866-300-4768</phone>
+		<country>Jersey</country>
+		<account_balance>€135,418</account_balance>
+		<average_annual_sales_eur>47194</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Auctor LLP</company>
+		<contact>Quinn Lara</contact>
+		<phone>+73-731-828-5559</phone>
+		<country>Mauritius</country>
+		<account_balance>€113,715</account_balance>
+		<average_annual_sales_eur>49139</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Lectus Corp.</company>
+		<contact>Vernon Duran</contact>
+		<phone>+23-192-542-5179</phone>
+		<country>Kuwait</country>
+		<account_balance>€141,500</account_balance>
+		<average_annual_sales_eur>46332</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Quam Vel Consulting</company>
+		<contact>Susan Baxter</contact>
+		<phone>+34-644-343-6532</phone>
+		<country>Comoros</country>
+		<account_balance>€132,342</account_balance>
+		<average_annual_sales_eur>58085</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Iaculis Institute</company>
+		<contact>Elton Mcconnell</contact>
+		<phone>+06-703-147-6739</phone>
+		<country>Bulgaria</country>
+		<account_balance>€183,430</account_balance>
+		<average_annual_sales_eur>56694</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Sed Tortor Limited</company>
+		<contact>Vance Carney</contact>
+		<phone>+59-934-670-7988</phone>
+		<country>Georgia</country>
+		<account_balance>€179,527</account_balance>
+		<average_annual_sales_eur>54101</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Non Arcu Company</company>
+		<contact>Omar Livingston</contact>
+		<phone>+50-432-255-5111</phone>
+		<country>South Sudan</country>
+		<account_balance>€191,042</account_balance>
+		<average_annual_sales_eur>50384</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Dictum Proin Corporation</company>
+		<contact>Daquan Rush</contact>
+		<phone>+12-131-261-0296</phone>
+		<country>Thailand</country>
+		<account_balance>€105,624</account_balance>
+		<average_annual_sales_eur>59114</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Velit Dui Semper Industries</company>
+		<contact>Rachel Adkins</contact>
+		<phone>+66-309-236-9965</phone>
+		<country>Korea, South</country>
+		<account_balance>€187,967</account_balance>
+		<average_annual_sales_eur>37633</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Magna Cras Consulting</company>
+		<contact>Garrett Blevins</contact>
+		<phone>+59-366-324-0207</phone>
+		<country>Lesotho</country>
+		<account_balance>€116,788</account_balance>
+		<average_annual_sales_eur>69776</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Etiam Consulting</company>
+		<contact>Marshall Cortez</contact>
+		<phone>+05-464-789-0567</phone>
+		<country>New Caledonia</country>
+		<account_balance>€150,029</account_balance>
+		<average_annual_sales_eur>27286</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Vitae Corporation</company>
+		<contact>Zena Jennings</contact>
+		<phone>+52-742-344-9441</phone>
+		<country>Christmas Island</country>
+		<account_balance>€103,089</account_balance>
+		<average_annual_sales_eur>50177</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>In Ornare Sagittis Industries</company>
+		<contact>Neville Barker</contact>
+		<phone>+40-609-285-9933</phone>
+		<country>Belarus</country>
+		<account_balance>€134,741</account_balance>
+		<average_annual_sales_eur>47256</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Nibh Lacinia Orci Corporation</company>
+		<contact>May Walsh</contact>
+		<phone>+21-436-747-8412</phone>
+		<country>Taiwan</country>
+		<account_balance>€105,897</account_balance>
+		<average_annual_sales_eur>53595</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Dui Semper Company</company>
+		<contact>Stewart Sloan</contact>
+		<phone>+35-190-841-8811</phone>
+		<country>Cuba</country>
+		<account_balance>€103,355</account_balance>
+		<average_annual_sales_eur>44414</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Sed Nec Industries</company>
+		<contact>Willow Rasmussen</contact>
+		<phone>+25-347-562-0806</phone>
+		<country>Congo (Brazzaville)</country>
+		<account_balance>€140,749</account_balance>
+		<average_annual_sales_eur>60265</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Ornare Elit Elit LLC</company>
+		<contact>Lenore Franco</contact>
+		<phone>+11-929-434-3670</phone>
+		<country>Portugal</country>
+		<account_balance>€165,692</account_balance>
+		<average_annual_sales_eur>44784</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Condimentum Donec Limited</company>
+		<contact>Ivory Tran</contact>
+		<phone>+21-834-562-8402</phone>
+		<country>Norway</country>
+		<account_balance>€141,036</account_balance>
+		<average_annual_sales_eur>50944</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Lectus LLC</company>
+		<contact>Shellie Vincent</contact>
+		<phone>+70-861-378-4390</phone>
+		<country>Uruguay</country>
+		<account_balance>€104,256</account_balance>
+		<average_annual_sales_eur>59394</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Orci Quis Lectus PC</company>
+		<contact>Adam Lucas</contact>
+		<phone>+64-743-597-4784</phone>
+		<country>Spain</country>
+		<account_balance>€166,672</account_balance>
+		<average_annual_sales_eur>41949</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Venenatis Lacus Incorporated</company>
+		<contact>Harriet Simon</contact>
+		<phone>+60-774-206-5082</phone>
+		<country>Spain</country>
+		<account_balance>€150,874</account_balance>
+		<average_annual_sales_eur>65366</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Luctus Incorporated</company>
+		<contact>Hayes Merrill</contact>
+		<phone>+99-998-581-9320</phone>
+		<country>France</country>
+		<account_balance>€121,162</account_balance>
+		<average_annual_sales_eur>48546</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Sodales Nisi Inc.</company>
+		<contact>Solomon Guthrie</contact>
+		<phone>+47-601-280-2185</phone>
+		<country>Venezuela</country>
+		<account_balance>€169,649</account_balance>
+		<average_annual_sales_eur>46242</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Sagittis Augue Eu Corporation</company>
+		<contact>Jemima Bartlett</contact>
+		<phone>+81-840-766-0880</phone>
+		<country>Indonesia</country>
+		<account_balance>€106,244</account_balance>
+		<average_annual_sales_eur>57256</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Aenean Ltd</company>
+		<contact>Hamilton Lamb</contact>
+		<phone>+46-142-111-1731</phone>
+		<country>Korea, South</country>
+		<account_balance>€132,962</account_balance>
+		<average_annual_sales_eur>45263</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Felis Adipiscing Incorporated</company>
+		<contact>Byron Rivers</contact>
+		<phone>+75-268-941-1175</phone>
+		<country>Tokelau</country>
+		<account_balance>€125,109</account_balance>
+		<average_annual_sales_eur>54475</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Magna Ut Tincidunt Inc.</company>
+		<contact>Darius Bullock</contact>
+		<phone>+26-853-135-5301</phone>
+		<country>Dominican Republic</country>
+		<account_balance>€152,622</account_balance>
+		<average_annual_sales_eur>54893</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>A Mi Fringilla Institute</company>
+		<contact>Noel Rasmussen</contact>
+		<phone>+31-453-721-2540</phone>
+		<country>Equatorial Guinea</country>
+		<account_balance>€112,975</account_balance>
+		<average_annual_sales_eur>44790</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Aliquet Phasellus Institute</company>
+		<contact>Hedley Cameron</contact>
+		<phone>+66-485-253-6024</phone>
+		<country>Samoa</country>
+		<account_balance>€103,725</account_balance>
+		<average_annual_sales_eur>57620</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Viverra Maecenas Iaculis Institute</company>
+		<contact>Thomas Frank</contact>
+		<phone>+60-153-360-9087</phone>
+		<country>Maldives</country>
+		<account_balance>€135,947</account_balance>
+		<average_annual_sales_eur>45644</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Mattis Cras Eget Incorporated</company>
+		<contact>Nicholas Fields</contact>
+		<phone>+79-888-282-4857</phone>
+		<country>Singapore</country>
+		<account_balance>€175,990</account_balance>
+		<average_annual_sales_eur>54731</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Quis PC</company>
+		<contact>Tashya Williams</contact>
+		<phone>+98-468-552-8935</phone>
+		<country>Chad</country>
+		<account_balance>€120,325</account_balance>
+		<average_annual_sales_eur>49380</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Tellus Id Nunc PC</company>
+		<contact>Yoko Kemp</contact>
+		<phone>+29-891-698-5122</phone>
+		<country>Turkey</country>
+		<account_balance>€172,910</account_balance>
+		<average_annual_sales_eur>55448</average_annual_sales_eur>
+	</customer>
+	<customer>
+		<company>Urna Nunc Ltd</company>
+		<contact>Neil Barrett</contact>
+		<phone>+02-206-530-8088</phone>
+		<country>Kuwait</country>
+		<account_balance>€140,980</account_balance>
+		<average_annual_sales_eur>65941</average_annual_sales_eur>
+	</customer>
+</customers>
